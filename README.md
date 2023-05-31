@@ -19,8 +19,7 @@
 
 Я создала подключение, используя встроенный коннектор:
 
-<image src= "C:/Users/Jess/Pictures/Screenshots/snap1.png">
-
+![img](https://github.com/Jessjesss/Project_SalesDashboard/blob/master/img/1.png)
 
 К таблице **MS_SalesFacts присоединила**:
 
@@ -30,7 +29,7 @@
 
 **MS_Clients**.
 
-<image src= "C:/Users/Jess/Pictures/Screenshots/2.png">
+![img](https://github.com/Jessjesss/Project_SalesDashboard/blob/master/img/2.png)
 
 Переименовала названия полей с английского языка на русский и агрегировала нужные данные (сумма, количество уникальных)
 
@@ -51,7 +50,7 @@
 
 Для визуализации геоданных я использовала географические координаты из таблицы **MS_Shops** , с помощью встроенных функций Yandex DataLens **** изменила тип данных на: “геополигон” и “геоточка”. Создала чарт: “Магазины на карте”.
 
-<image src= "C:/Users/Jess/Pictures/Screenshots/3.png">
+![img](https://github.com/Jessjesss/Project_SalesDashboard/blob/master/img/3.png)
 
 В результате разработки я создала 22 чарта, 6 селекторов, 2 страницы (продажи/клиенты). 
 
@@ -63,6 +62,6 @@
 3. Визуализация геоданных: с ее помощью компания может увидеть, в каких районах больше всего продаж и определить перегруженные точки, а так же принять решение об открытии нового магазина в наиболее перспективном месте.
 4. ABC-анализ товаров: Был проведен ABC-анализ товаров, который позволит выделить наиболее важные товары с точки зрения прибыльности. Это поможет компании оптимизировать управление запасами и сконцентрировать усилия на продаже ключевых товаров.
 
-<image src= "C:/Users/Jess/Pictures/Screenshots/4.png">
+![img](https://github.com/Jessjesss/Project_SalesDashboard/blob/master/img/4.png)
 
-<image src= "C:/Users/Jess/Pictures/Screenshots/5.png">
+![img](https://github.com/Jessjesss/Project_SalesDashboard/blob/master/img/5.png)
